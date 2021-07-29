@@ -1,4 +1,4 @@
-# Statistical analysis of hr characteristics of a company
+# Web scraping using BeautifulSoup and VK API
 
 ## Table of Contents
 
